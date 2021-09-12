@@ -4,7 +4,7 @@
 
 
 <hibernate-mapping>
-  <class name="User" table="users">
+  <class name="UserTwo" table="users">
     <meta attribute="class-description">
       This class contains the users detail.
     </meta>
